@@ -1,6 +1,6 @@
 {
   "name": "react-router-historian",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Keeps an accessible record of past locations in react-router (v3.x) apps",
   "author": "Adrian von Gegerfelt <adrian@designbyadrian.com>",
   "license": "MIT",
