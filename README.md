@@ -84,3 +84,5 @@ These functions are made available via props to the components wrapped with `wit
 ##Thanks
 
 React Router Historian is heavily inspired by [react-router-last-location](https://github.com/hinok/react-router-last-location) by [Dawid Karabin](https://github.com/hinok)
+
+NPM package exists thanks to react-build-lib by [adrianmcli](https://www.npmjs.com/~adrianmcli)
