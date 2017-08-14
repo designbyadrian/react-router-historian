@@ -4,6 +4,10 @@
   "description": "Keeps an accessible record of past locations in react-router (v3.x) apps",
   "author": "Adrian von Gegerfelt <adrian@designbyadrian.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/designbyadrian/react-router-historian.git"
+  },
   "keywords": [
     "react",
     "router",
